@@ -1,2 +1,2 @@
-# Advent of Code  ÃD²Õ¤¤Ä¶ª©
+# Advent of Code  é¡Œçµ„ä¸­è­¯ç‰ˆ
 Advent of Code - Problem Set in Chinese
