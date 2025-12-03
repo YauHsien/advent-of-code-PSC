@@ -1,6 +1,6 @@
 [Advent of Code 2025 Day 1](https://adventofcode.com/2025/day/1)
 
-## 機密入口
+## 第一日：機密入口
 小精靈們獲得兩件消息，一好一壞。
 
 好消息，他們學會了 [專案管理](https://en.wikipedia.org/wiki/Project_management)，使他們不必像以往的聖誕假期之中那麼忙碌。其中一個例子，他們現在知道要盡早做完「北極」公司總部的妝點與整理，以使其他重要的工作都能及時完成。
