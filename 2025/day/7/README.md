@@ -1,7 +1,7 @@
 [Advent of Code 2025 Day 7](https://adventofcode.com/2025/day/7)
 
 ## 第七日：實驗室
-你向那一家子頭足類動物道謝，便離開了垃圾壓縮廠，前去尋找北極總部那做[熟悉](https://adventofcode.com/2024/day/6)的[穿堂](https://adventofcode.com/2018/day/4)，通往實驗棟。
+你向那一家子頭足類動物道謝，便離開了垃圾壓縮廠，前去尋找北極總部那座[熟悉的](https://adventofcode.com/2024/day/6)[穿堂](https://adventofcode.com/2018/day/4)，通往實驗棟。
 
 大大的標語寫著「傳送站」，看起來她們已經研發了**傳送**技術，你等不及要親自上去試試，於是，你踏上了寬廣的黃色傳送平台。
 
